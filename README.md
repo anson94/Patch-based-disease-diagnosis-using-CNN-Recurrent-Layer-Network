@@ -1,3 +1,3 @@
 # Patch-based-disease-diagnosis-using-CNN-Recurrent-Layer-Network
 
-## by anson simon
+## Author  Anson Simon
